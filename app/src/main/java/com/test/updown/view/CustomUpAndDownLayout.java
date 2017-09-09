@@ -16,7 +16,7 @@ import com.test.updown.utils.Utils;
 /**
  * 可上下滑动的view
  *
- * @author ghy
+ * @author dingys
  * @description:
  */
 public class CustomUpAndDownLayout extends RelativeLayout implements
